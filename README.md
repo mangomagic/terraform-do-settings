@@ -1,4 +1,4 @@
-# Digital Ocean Setting
+# Digital Ocean Settings
 
 Global configuration for Digital Ocean setup
 
