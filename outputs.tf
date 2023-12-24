@@ -7,7 +7,7 @@ output "settings" {
   value = local.settings
 }
 
-output "do_project" {
+output "project" {
   description = "Name of Digital Ocean project for environment"
   value       = lookup(local.settings, "do_project")
 }
